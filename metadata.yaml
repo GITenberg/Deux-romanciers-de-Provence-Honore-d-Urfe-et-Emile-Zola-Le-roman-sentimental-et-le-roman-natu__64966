@@ -1,0 +1,31 @@
+_repo: Deux-romanciers-de-Provence-Honore-d-Urfe-et-Emile-Zola-Le-roman-sentimental-et-le-roman-natu__64966
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rostand, Edmond
+    birthdate: 1868
+    deathdate: 1918
+    gutenberg_agent_id: '575'
+    url: http://www.gutenberg.org/2009/agents/575
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Edmond_Rostand
+    - https://fr.wikipedia.org/wiki/Edmond_Rostand
+  editor:
+    agent_name: Ripert, Émile
+    gutenberg_agent_id: '53117'
+    url: http://www.gutenberg.org/2009/agents/53117
+description: ''
+gutenberg_issued: '2021-03-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64966'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Deux romanciers de Provence: Honoré d''Urfé et Émile Zola
+
+  Le roman sentimental et le roman naturaliste'
+url: http://www.gutenberg.org/ebooks/64966
